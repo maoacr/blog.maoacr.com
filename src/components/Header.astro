@@ -1,6 +1,7 @@
 ---
 import HeaderLink from './HeaderLink.astro';
 import { SITE_TITLE } from '../consts';
+import ThemeIcon from './ThemeIcon.astro';
 ---
 
 <header>
@@ -8,6 +9,7 @@ import { SITE_TITLE } from '../consts';
 		<h2><a href="/">{SITE_TITLE}</a></h2>
 		<div class="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
+			<ThemeIcon />
 		</div>
 	</nav>
 </header>
@@ -41,5 +43,8 @@ import { SITE_TITLE } from '../consts';
 	nav a.active {
 		text-decoration: none;
 		border-bottom-color: var(--accent);
+	}
+	.internal-links{
+		display: flex;
 	}
 </style>

@@ -23,6 +23,15 @@
   font-style: normal;
   font-display: swap;
 }
+html.dark {
+  background-color: #262626;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
+}
+
 body {
   font-family: "Atkinson", sans-serif;
   margin: 0;
@@ -86,6 +95,9 @@ p {
 textarea {
   width: 100%;
   font-size: 16px;
+}
+aside {
+  color: var(--accent-dark);
 }
 input {
   font-size: 16px;
