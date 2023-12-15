@@ -1,7 +1,7 @@
 ---
 title: "'Platzi no sirve'"
 description: "Te cuento mi historia con Platzi y esta increible plataforma y equipo de trabajo que cambiaron mi vida."
-pubDate: "Dec 31 2023"
+pubDate: "Feb 15 2024"
 heroImage: "/blog-placeholder-5.jpg"
 ---
 
