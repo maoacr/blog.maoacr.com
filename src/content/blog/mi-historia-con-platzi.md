@@ -2,7 +2,7 @@
 title: "'Platzi no sirve'"
 description: "Te cuento mi historia con Platzi y esta increible plataforma y equipo de trabajo que cambiaron mi vida para siempre."
 pubDate: "Feb 22 2024"
-heroImage: "../../assets/images/platzi.webp"
+heroImage: "/platzi.webp"
 tag: "Platzi"
 ---
 
