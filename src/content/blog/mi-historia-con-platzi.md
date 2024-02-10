@@ -6,23 +6,23 @@ heroImage: "/platzi.webp"
 tag: "Platzi"
 ---
 
-A veces la voz del sindrome del impostor es mas fuerte que la voz de la motivación de nuestros sueños, y cuando logramos revertir los papeles de estas, la vida se torna sorprendentemente mágica e inesperada, al punto del nacimiento de historias que de otra forma serian imposibles.
+A veces la voz del síndrome del impostor es más fuerte que la voz de la motivación de nuestros sueños, y cuando logramos revertir los papeles de estas, la vida se torna sorprendéntemente mágica e inesperada, al punto del nacimiento de historias que de otra forma serian imposibles.
 
-Para que me entiendas, primero te dare un poco mas de contexto y te contare como gracias a la necesidad y a el sentido de responsabilidad para conmigo, mi familia y nuestro futuro, decidí darle la mano al miedo asi como a cualquier otro sentimiento o actitud negativa que tuviera en ese momento y empecé a caminar.
+Para que me entiendas, primero te daré un poco más de contexto y te contaré como gracias a la necesidad y a el sentido de responsabilidad para conmigo, mi familia y nuestro futuro, decidí darle la mano al miedo así como a cualquier otro sentimiento o actitud negativa que tuviera en ese momento y empecé a caminar.
 
 > _Es momento de recomendarte un buen café o la bebida que prefieras para que acompañes esta lectura._
 
 ### 2018
 
-Me encontraba en un momento de mi vida extremadamete dificil a nivel económico y de salud por aquello del [accidente en moto](https://blog.maoacr.com/accidente/) del que te hablo en otro post, razón que nos habia llevado en cuestión de poco mas de 12 meses, progresivamente a perder casi todo lo que hasta este momento habiamos logrado construir con mi pareja.
+Me encontraba en un momento de mi vida extremadamete difícil a nivel económico y de salud por aquello del [accidente en moto](https://blog.maoacr.com/accidente/) del que te hablo en otro post, razón que nos había llevado en cuestión de poco más de 12 meses, progresivamente a perder casi todo lo que hasta este momento habiamos logrado construir con mi pareja.
 
-Duele demasiado cuando vez que todo por lo que has trabajado casi toda tu vida laboral o de adulto, se cae en un par de meses, se esfuma entre tus dedos sin darte la oportunidad de hacer demasiado para evitarlo.
+Duele demasiado cuando vez que todo por lo que has trabajado casi toda tu vida, de repente se cae en un par de meses, se esfuma entre tus dedos sin darte la oportunidad de hacer demasiado para evitarlo.
 
-Luego de decidir con mi pareja que era momento de irnos de la ciudad capital de nuestro pais ( Bogotá - Colombia ), e ir a buscar una vida mas tranquila por nosotros y por nuestros hijos, gracias a mi suegra que quiero con mucha fuerza porque es una persona demasiado especial e importante en todas mis historias, quien nos tendio la mano abriendonos un espacio en su casa, terminamos en una ciudad mucho mas pequeña de clima cálido con una actividad económica evidentemente mas limitada que Bogotá intentado resurgir en contra de todos los pronósticos.
+Luego de decidir con mi pareja que era momento de irnos de la ciudad capital de nuestro pais ( Bogotá - Colombia ), e ir a buscar una vida más tranquila por nosotros y por nuestros hijos, gracias a mi suegra que quiero con mucha fuerza porque es una persona demasiado especial e importante en todas mis historias, quien nos tendio la mano abriendonos un espacio en su casa, terminamos en una ciudad mucho más pequeña de clima cálido con una actividad económica evidentemente más limitada que Bogotá intentado resurgir en contra de todos los pronósticos.
 
 ### 2019
 
-No quiero aburrirte con todo lo que hemos tenido que sufrir y pasar como familia para lograr estar y ser quienes somos hoy día mucho mas fuertes y unidos que nunca.
+No quiero aburrirte con todo lo que hemos tenido que sufrir y pasar como familia para lograr estar y ser quienes somos hoy día mucho más fuertes y unidos que nunca.
 
 Con un dolor crónico desgastando mi mente segundo a segundo, pero con el afán y la necesidad de salir adelante por mi y mi familia, había escuchado de "Estudiar en linea" y el nombre de un par de plataformas como Platzi, Crehana y Coursera entre otras...
 
@@ -30,21 +30,19 @@ La parte para mi divertida e increible empieza con una idea que llego a mi cabez
 
 > _“Y si convezo a alguna empresa o marca de pagar mi suscripción a [Platzi](https://platzi.com) a cambio de realizar proyectos y trabajos relacionados con lo que vaya aprendiendo ?_ 🤔
 
-Sin miedo ni pena empecé a buscar ese patrocinio y oh sorpresa que aparecio más pronto de lo que yo esperaba y en cuestion de días estaba registrandome por primera vez en la plataforma extremadamente feliz y motivado a estudiar y aprender todo lo que pudiera antes de que terminara mi suscripción.
+Sin miedo ni pena empecé a buscar ese patrocinio y oh sorpresa que aparecio más pronto de lo que yo esperaba, en cuestion de días estaba registrandome por primera vez en la plataforma extremadamente feliz y motivado a estudiar y aprender todo lo que pudiera antes de que terminara mi suscripción.
 
-La verdad es que nunca había estudiado de forma virtual y esto tampoco era tan común para entonces puesto que fue pre-pandemia.
+La verdad es que yo nunca había estudiado de forma virtual y esto tampoco era tan común para entonces puesto que fue pre-pandemia.
 
-A principio del año y de forma gratuita, realicé el Curso de Programación Básica dictado por el gran, irreverente, amado por unos y odiado por otros [Freddy Vega](https://freddyvega.com/), CEO & Co-Founder de [Platzi](https://platzi.com).
-
-Este curso y la forma en la que Freddy transmite su pasión por lo que hace, fue tal vez lo que, en medio de mi crisis, activó algo en mi cerebro que quizo ir a por convertirme en eso que estaba viendo frente a la computadora a toda costa.
+A principio del año y de forma gratuita, realicé el Curso de Programación Básica dictado por el gran, irreverente, amado por unos y odiado por otros [Freddy Vega](https://freddyvega.com/), CEO & Co-Founder de [Platzi](https://platzi.com). Este curso y la forma en la que Freddy transmite su pasión por lo que hace, fue tal vez lo que, en medio de mi crisis, activó algo en mi cerebro que quizo ir a por convertirme en eso que estaba viendo frente a la computadora a toda costa.
 
 Luego de la gran idea que cambiaría el rumbo de mi vida para siempre, y de un hermoso año lleno de conocimientos nuevos, motivaciones y metas nuevas, se acercaba el final de mi suscripción y mi situación económica no cambiaba.
 
-Aún vivía en la casa de mi suegra con mi pareja y mis hijos, trabajando con cosas de diseño y publicidad que apenas nos permitian sobreivir.
+Aún vivía en la casa de mi suegra con mi pareja y mis hijos, trabajando con cosas de diseño y publicidad que apenas nos permitian sobrevivir.
 
 ### 2020
 
-Cuando creí que esa etapa había terminado, un correo electrónico me lleno el corazón de alegría nuevamente asi no entendiera muy bien a lo que me estaban invitando desde Platzi. Un Bootcamp de Desarrollo Web ( terminos que para entonces jamás habia escuchado ) y que gracias a mi desempeño dentro de la plataforma durante el año de suscripción, me había ganado la oportunidad de pertenecer a este program piloto de esta gran plataforma.
+Cuando creí que esa etapa había terminado, un correo electrónico me lleno el corazón de alegría nuevamente asi no entendiera muy bien a lo que me estaban invitando desde Platzi. Un Bootcamp de Desarrollo Web ( terminos que para entonces jamás había escuchado ) y que gracias a mi desempeño dentro de la plataforma durante el año de suscripción, me había ganado la oportunidad de pertenecer a este program piloto de esta gran plataforma.
 
 > _“Platzi Master es un **programa exclusivo para nuestros mejores estudiantes** y por eso estamos encantados de informarte que el Comité de Admisiones ha decidido invitarte a que inicies este proceso con nosotros. Es un logro muy importante y estamos seguros que juntos llevaremos tu carrera a otro nivel.”_
 
