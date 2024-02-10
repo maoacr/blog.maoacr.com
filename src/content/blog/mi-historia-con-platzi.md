@@ -2,7 +2,7 @@
 title: "'Platzi no sirve'"
 description: "Te cuento mi historia con Platzi y esta increible plataforma y equipo de trabajo que cambiaron mi vida para siempre."
 pubDate: "Feb 22 2024"
-heroImage: "/platzi.webp"
+heroImage: "../../assets/images/platzi.webp"
 tag: "Platzi"
 ---
 
@@ -48,7 +48,7 @@ Cuando creí que esa etapa había terminado, un correo electrónico me lleno el 
 
 Despues de comentarlo con algunas personas que muy incredulamente me decian cosas como: **"Platzi no sirve"**, "Yo nunca lo había escuchado" y "pero virtual será que uno si aprende?", llegó la pregunta de mi esposa que mirandome a los ojos me dijo: **Tú lo quieres hacer?**
 
-<img src="../../../public/pensando.webp" alt="Hombre pensativo"/><br>
+<img src="../../assets/images/pensando.webp" alt="Hombre pensativo"/><br>
 
 Pues aqui estaba yo, en una dinámica que no terminaba de comprender muy bien al principio, rodeado de gente con las mismas o más ganas de aprender y de comerse el mundo que yo, junto con expertos en las diferentes áreas del Desarrollo de software como mentores tales como:
 
