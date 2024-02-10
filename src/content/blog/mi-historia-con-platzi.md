@@ -65,11 +65,11 @@ Pues aqui estaba yo, en una dinámica que no terminaba de comprender muy bien al
 
 Luego de varias etapas, proyectos individuales y grupales, mucho trabajo duro y horas de código, entrevistas, pruebas técnicas, ahi estaba yo, un 10 de Marzo abriendo mis ojos y preparandome para lo que sería mi primer dia como Desarrollador Web UI Semi Senior de la empresa mas grande de tecnologia a nivel LATAM, Globant.
 
-De repente despues de 2 años que parecieron tal vez un par de meses de lo divertido y enfocado que me encontraba, había logrado cosas que nunca me hubiera tan si quiera imaginado que yo era capaz de hacer y mucho menos con un dolor crónico que me atormenta 24hrs al día sin descanso pero que mientras estoy escribiendo código, parece que desapareciera casi por completo de mi cuerpo
+De repente después de 2 años que parecieron tal vez un par de meses de lo divertido y enfocado que me encontraba, había logrado cosas que nunca me hubiera tan si quiera imaginado que yo era capaz de hacer y mucho menos con un dolor crónico que me atormenta 24hrs al día sin descanso pero que mientras estoy escribiendo código, parece que desapareciera casi por completo de mi cuerpo
 
 ### Que historia tan larga !
 
-Lo sé, trate de contarte lo más puntual e importante de cada etapa de este proceso asi que puedes imaginarte todos los problemas y obstaculos que pude haber tenido durante este camino…
+Lo sé, traté de contarte lo más puntual e importante de cada etapa de este proceso asi que puedes imaginarte todos los problemas y obstaculos que pude haber tenido durante este camino…
 
 ### Conclusión
 
