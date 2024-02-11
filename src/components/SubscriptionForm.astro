@@ -1,0 +1,39 @@
+---
+
+---
+<form id="subscriptionForm" >
+  <h4>Suscríbete a mis historias!</h4>
+  <p>Te enviaré un correo unicamente cuando tenga una nueva historia que contarte.</p>
+  <label for="inputEmail">
+    <input class="w-full" placeholder="correo" type="email" id="inputEmail" name="email" required>
+  </label>
+  <button type="submit" id="sendNewSubscriptionForm">Suscribirme</button>
+</form>
+
+<script src="../../public/insertNewSubscriber.js"></script>
+
+<style>
+  form {
+    width: 100%;
+    margin: 20px auto 80px;
+    display: flex;
+    flex-direction: column;
+  }
+    label{
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  input {
+    border: none;
+    border-radius: 8px;
+    padding: 16px 18px;
+  }
+  button {
+    background-color: var(--accent-dark);
+    padding: 16px 18px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    width: 100%;
+}
+</style>
