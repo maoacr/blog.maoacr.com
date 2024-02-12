@@ -1,14 +1,17 @@
 ---
 
 ---
-<form id="subscriptionForm" >
+<section>
   <h4>Suscríbete a mis historias!</h4>
   <p>Te enviaré un correo unicamente cuando tenga una nueva historia que contarte.</p>
-  <label for="inputEmail">
-    <input class="w-full" placeholder="correo" type="email" id="inputEmail" name="email" required>
-  </label>
-  <button type="submit" id="sendNewSubscriptionForm">Suscribirme</button>
-</form>
+
+  <form id="subscriptionForm" class="sm:relative">
+    <label for="inputEmail">
+      <input class="w-full  px-6 py-4" placeholder="mail@example.com" type="email" id="inputEmail" name="email" required>
+    </label>
+    <button class=" rounded-lg border-none text-white w-full px-6 py-4 sm:absolute sm:w-1/4 sm:right-0 sm:py-3" type="submit" id="sendNewSubscriptionForm">Suscribirme</button>
+  </form>
+</section>
 
 <script src="../../public/insertNewSubscriber.js"></script>
 
@@ -19,21 +22,18 @@
     display: flex;
     flex-direction: column;
   }
-    label{
+  label{
     width: 100%;
     margin-bottom: 10px;
   }
   input {
     border: none;
     border-radius: 8px;
-    padding: 16px 18px;
+    &:focus {
+      outline-color: var(--accent-dark);
+    }
   }
   button {
     background-color: var(--accent-dark);
-    padding: 16px 18px;
-    border-radius: 8px;
-    border: none;
-    color: white;
-    width: 100%;
 }
 </style>
