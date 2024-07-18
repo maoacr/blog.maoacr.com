@@ -1,7 +1,6 @@
 ---
 import { type CollectionEntry, getCollection } from 'astro:content';
 import BlogPost from '../layouts/BlogPost.astro';
-import SubscriptionForm from '../components/SubscriptionForm.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
@@ -18,5 +17,4 @@ const { Content } = await post.render();
 
 <BlogPost {...post.data}>
 	<Content />
-	<SubscriptionForm />
 </BlogPost>
